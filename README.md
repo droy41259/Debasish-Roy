@@ -3,7 +3,7 @@ Debasish Roy - Game Resume Website
 Welcome to my interactive, retro-themed game resume website!
 
 🚀 Live Site
-View it at: https://Debasish-Roy.github.io
+View it at: [https://Debasish-Roy.github.io](https://github.com/droy41259/Debasish-Roy)
 
 🎮 About
 This is a creative resume designed as a multi-level game. Each level showcases a part of my professional journey:
