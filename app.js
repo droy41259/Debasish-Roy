@@ -2,7 +2,7 @@
 class GameState {
     constructor() {
         this.currentLevel = 0;
-        this.totalLevels = 7; // 0 = homepage, 1-6 = levels, 7 = final
+        this.totalLevels = 8; // 0 = homepage, 1-6 = levels, 7 = final
         this.soundEnabled = true;
         this.skillsActivated = false;
         this.levelHistory = [0]; // Track navigation history
